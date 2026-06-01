@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.sln.user
+*.vspscc
+*.vspx
+*.sap
+
+# ReSharper
+.idea/
+*.DotSettings
+
+# User-specific files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+packages/
+.nuget/
