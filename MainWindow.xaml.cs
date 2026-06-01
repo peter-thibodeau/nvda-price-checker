@@ -7,7 +7,7 @@ namespace NVDAPriceChecker
 {
     public partial class MainWindow : Window
     {
-        private readonly string _apiKey = "demo"; // Replace with your API key from https://www.alphavantage.co/
+        private readonly string _apiKey = "4CJZ4GKMZRVZBX5S"; // Replace with your API key from https://www.alphavantage.co/
         private readonly HttpClient _httpClient = new HttpClient();
 
         public MainWindow()
